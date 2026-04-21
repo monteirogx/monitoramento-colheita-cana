@@ -1,0 +1,16 @@
+[
+    {
+        "talhao": "talhao sul",
+        "expectativa_ton": 100.0,
+        "colheita_real_ton": 80.0,
+        "perda_ton": 20.0,
+        "perda_porcentagem": 20.0
+    },
+    {
+        "talhao": "talhao norte",
+        "expectativa_ton": 100.0,
+        "colheita_real_ton": 110.0,
+        "perda_ton": -10.0,
+        "perda_porcentagem": -10.0
+    }
+]
